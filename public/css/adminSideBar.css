@@ -1,0 +1,81 @@
+/* .positionAbsolute {
+    display: none !important;
+}
+
+@media screen and (max-width: 800px) {
+    .userMiniSideBar {
+        padding-top: 4rem !important;
+        position: absolute !important;
+        background-color: #07458b !important;
+        background-color: red !important;
+        height: 100vh !important;
+        width: 65vw !important;
+        top: 0 !important;
+        z-index: 2000 !important;
+        left: 0 !important;
+        display: flex !important;
+        flex-direction: column !important;
+        justify-content: space-evenly !important;
+        align-items: center !important;
+        overflow: hidden;
+    }
+    .userMiniSideBar.display {
+        display: none !important;
+    }
+
+    .mediaSmallScreen {
+        z-index: 4000 !important;
+        position: absolute !important;
+        right: 5% !important;
+        top: 2% !important;
+    }
+
+    .positionAbsolute {
+        display: flex !important;
+        height: 10rem !important;
+        line-height: 2rem !important;
+        width: 100% !important;
+    }
+
+    .clearfix {
+        background-color: white !important;
+        height: 60vh !important;
+        width: 100% !important;
+        overflow: scroll !important;
+        display: flex !important;
+        flex-wrap: wrap !important;
+        align-items: center !important;
+        justify-content: center !important;
+        margin-top: -2rem !important;
+        border-radius: 4px !important;
+    }
+
+    .userHideSmallScreen {
+        display: none;
+    }
+
+    .navBtnLinks {
+        width: 1rem !important;
+        height: 1rem !important;
+        margin-bottom: 2rem !important;
+        background-color: red !important;
+    }
+
+    .leftSideBarWrapper {
+        width: 47% !important;
+        height: fit-content !important;
+        display: flex !important;
+        align-items: center !important;
+        justify-content: space-between !important;
+        flex-direction: column !important;
+    }
+
+    .nav-application > .btn {
+        float: unset !important;
+        color: #8492a6;
+        margin: 0 !important;
+    }
+    .nav-application > .btn:nth-child(odd) {
+        margin-right: unset !important;
+    }
+} */
